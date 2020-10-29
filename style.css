@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    padding: 0;
+
+}
+h1{
+    margin: 46px;
+    color: #006600;
+    font-style: italic;
+    text-shadow: 2px 2px 4px #000000a6;
+}
+
+.banner img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.section-1 img{
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    
+}
+.cards{
+    margin:46px;
+    border-bottom: 2px solid #ccccb3 !important;
+}
+.card{
+ border: none !important;
+ 
+}
+.card-text{
+    margin-bottom: 12px !important;
+}
+.section-2 img{
+    width: 600px;
+    height: 320px;
+}
+.section-2{
+    margin: 46px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+button{
+    border: none;
+    background-color: white;
+    color: #006600;
+    font-size: 18px !important;
+    font-weight: bold;
+    padding: 0px;
+}
+button:hover{
+    font-size: 20px !important;
+    transition-duration: 0.2s;
+}
